@@ -20,7 +20,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50">
-  <img src="(https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="React" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="50">
 </p>  
 

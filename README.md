@@ -2,9 +2,7 @@
 
 🚀 **Passionate MERN Stack Developer** | 💻 Frontend Enthusiast | 🎨 UI/UX Explorer  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" hight="500px" alt="Coding GIF">  
 
----
 
 ## 🌟 About Me  
 

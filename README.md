@@ -35,7 +35,7 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50">
 </p>  
 

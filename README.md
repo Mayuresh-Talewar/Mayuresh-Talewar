@@ -1,4 +1,4 @@
-👋 Hi, I'm Mayuresh Talewar!
+###👋 Hi, I'm Mayuresh Talewar!
 
 🚀 **Passionate MERN Stack Developer** | 💻 Frontend Enthusiast | 🎨 UI/UX Explorer  
 

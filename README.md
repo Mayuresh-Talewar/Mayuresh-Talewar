@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2c668cb-7d59-4e77-b1cd-114c96f594f8)# 👋 Hi, I'm Mayuresh Talewar!
+👋 Hi, I'm Mayuresh Talewar!
 
 🚀 **Passionate MERN Stack Developer** | 💻 Frontend Enthusiast | 🎨 UI/UX Explorer  
 

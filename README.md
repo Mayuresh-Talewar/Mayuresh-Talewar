@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayuresh Talewar!
+![image](https://github.com/user-attachments/assets/c2c668cb-7d59-4e77-b1cd-114c96f594f8)# 👋 Hi, I'm Mayuresh Talewar!
 
 🚀 **Passionate MERN Stack Developer** | 💻 Frontend Enthusiast | 🎨 UI/UX Explorer  
 
@@ -20,7 +20,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50">
+  <img src="(https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="React" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="50">
 </p>  
 
@@ -36,7 +36,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VS Code" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50">
 </p>  
 
 ---

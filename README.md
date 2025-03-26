@@ -41,24 +41,6 @@
 
 ---
 
-## 🌗 GitHub Stats (Auto Dark Mode)  
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MayureshTalewar&show_icons=true&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MayureshTalewar&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=MayureshTalewar&show_icons=true&theme=default" alt="GitHub Stats" width="48%">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MayureshTalewar&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MayureshTalewar&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayureshTalewar&theme=default" alt="GitHub Streak Stats" width="48%">
-  </picture>
-</p>  
-
----
-
 ## 👯‍♂️ Connect with Me  
 
 <p align="left">

@@ -1,58 +1,78 @@
-<!-- Profile Banner -->
+<!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mayuresh+Talewar;Frontend+Developer+%7C+MERN+Stack+Dev;UI%2FUX+Enthusiast+%7C+Clean+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Mayuresh+Talewar;MERN+Stack+Developer+%7C+UI%2FUX+Lover;Clean+Code+%7C+Fast+Web+Apps+%7C+Team+Player" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I'm a **Computer Science Graduate** with a passion for frontend development and clean user experiences.  
-🛠 I specialize in building responsive, user-friendly web apps using the **MERN Stack**.  
-📦 I love crafting intuitive UI/UX designs and translating them into clean, scalable code.  
-🎯 Currently working on a **Role-Based Web App** (Admin + CSC + Farmer Panels).  
-👨‍🎓 **Certified in UI/UX Design** – LearnTube by CareerNinja  
-💼 Former Web Development Intern @ **TechLang** (6 Months)
+I’m a **MERN Stack Developer** based in Nagpur, India, with hands-on experience in building **fast, scalable, and user-centric web apps**.  
+I specialize in React.js, Tailwind CSS, Node.js, MongoDB, and everything needed to ship full-stack products.
+
+💼 Currently interning as a **Team Lead at TECHNOLOGY WORLD CREATER PVT LTD**, leading frontend and backend builds.  
+🎯 Strong in reusable component design, API integrations, and UI/UX optimizations.  
+🧠 Always learning, always shipping — I thrive in fast-paced startup environments.
 
 ---
 
-### ⚙️ Tech Stack
+### 🚀 Projects
 
-<div align="center">
-  
-**Frontend**
+- 🧑‍🌾 [**Technology Agriculture Creater**](https://technologyagriculturecreater.com/)  
+  _A full-stack B2B platform connecting farmers and CSCs. Built secure JWT auth, Razorpay integration, and Fast2SMS OTP login._
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+- 🎬 [**SK Film Productions (UK)**](https://www.skfilmproductions.co.uk/)  
+  _Responsive portfolio site for a UK-based media firm with video embeds, image gallery, and smooth scrolling._
 
-**Backend & Tools**
+- 🏗️ [**Get Epoxy Floor**](https://www.getepoxy.in/)  
+  _Business website for epoxy flooring services. Built in React + Tailwind with project gallery, reviews, and Google Maps._
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🌍 [**Urhan Treaders (UK)**](http://www.urhantreaders.co.uk/)  
+  _Import-export site with dynamic product listings, optimized for SEO and mobile._
 
-**Other Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-</div>
+- 🤖 [**Shadow Monarch’s Code Review**](https://shadow-monarchs-code-review-frontend.onrender.com/)  
+  _AI-based full-stack code/content review platform using Google Gemini API._
 
 ---
 
-### 📊 GitHub Analytics
+### 🧠 Experience
+
+**TECHNOLOGY WORLD CREATER PVT LTD** – *Team Lead Intern* (Apr 2025 – Present)  
+- Led React app builds with 90%+ cross-device compatibility  
+- Modularized UI for scalability, cutting dev time by 40%  
+- Integrated REST APIs with Express.js, reducing app load by 25%  
+- Actively contributed to hiring at Arc Institute
+
+**SOFTTRONIX SOFTWARE SOLUTION PVT LTD** – *Frontend Intern* (Jul 2024 – Mar 2025)  
+- Built responsive React apps with 90%+ compatibility  
+- Boosted user engagement by 35% with dynamic UIs
+
+**TechLang** – *Frontend Intern* (Jan 2024 – Jun 2024)  
+- Delivered pixel-perfect UIs with Figma-to-React conversion  
+- Improved load speed by 25% via optimization
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+React.js • Redux • Tailwind CSS • Material UI • HTML5 • CSS3 • JavaScript (ES6+)
+
+**Backend:**  
+Node.js • Express.js • JWT • Socket.IO
+
+**Database:**  
+MongoDB • Mongoose
+
+**Dev Tools:**  
+Git • GitHub • Figma • Adobe XD • VS Code • Postman
+
+**Deployment:**  
+Vercel • Hostinger • Render
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
 
@@ -71,28 +91,29 @@
 
 ---
 
-### 🚀 Projects & Highlights
+### 🎓 Education
 
-> 💡 *Live portfolio and featured projects coming soon...*
+- **B.Tech in Computer Science** – GH Raisoni University (2021 – 2024) | CGPA: 7.89  
+- **Diploma in Computer Science** – Anjuman Polytechnic (2018 – 2021) | 75%
 
 ---
 
-### 📬 Let's Connect
+### 📬 Connect With Me
 
 <div align="center">
 
-<a href="mailto:mtalewar2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mayuresh-talewar-06242223a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Mayuresh-Talewar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-talewar-06242223a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtalewar2002@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayur20022)
 
 </div>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayuresh-Talewar&label=Profile+Visitors&color=blue" />
 </p>
 
----
-
 <p align="center">
-  💡 *"Code is not just what you write, it's what you deliver to the user."*
+  🧠 "Write code that not only works, but works beautifully."
 </p>

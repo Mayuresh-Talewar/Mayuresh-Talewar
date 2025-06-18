@@ -67,6 +67,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayuresh-Talewar&label=Profile+Views&color=blue" />
-</p>

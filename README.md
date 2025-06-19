@@ -8,9 +8,9 @@
 
 ### 🔹 About Me
 
-- 👨‍💻 Passionate Full Stack Developer (React.js, Node.js, MongoDB)
+- 👨‍💻 Passionate Full Stack Developer (React.js, Node.js, MongoDB, Express.js)
 - 🧠 Love building fast, user-friendly, and scalable web apps
-- 💼 Team Lead Intern @ Technology World Creater Pvt Ltd
+- 💼 Team Lead at @ Technology World Creater Pvt Ltd
 - 🎓 B.Tech in Computer Science | GH Raisoni University
 
 ---
@@ -33,8 +33,8 @@
 
 ### 💻 Tech Stack
 
-**Frontend:** React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
-**Backend:** Node.js, Express.js, JWT  
+**Frontend:** React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, TypeScript, Next.js
+**Backend:** Node.js, Express.js, JWT, OAuth 
 **Database:** MongoDB  
 **Tools:** Git, GitHub, Figma, Postman, Vercel
 

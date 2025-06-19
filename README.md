@@ -52,12 +52,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-Talewar&layout=compact&theme=dark&hide_border=true" width="47%" />
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayuresh-Talewar&theme=tokyonight&hide_border=true" width="95%" />
 
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%" />
+
 
 
 </div>

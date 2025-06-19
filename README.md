@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-![PRs Approved by Manager](https://img.shields.io/badge/PRs%20Approved%20by%20Manager-57-blue)
+<img src="https://img.shields.io/badge/PRs%20Approved%20by%20Manager-42-blue" alt="PRs Approved" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh-Talewar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-Talewar&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 

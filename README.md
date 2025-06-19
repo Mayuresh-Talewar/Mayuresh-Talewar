@@ -44,8 +44,11 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Team%20Lead-3%2B%20Organizations-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects%20Supervised-8%2B-success?style=for-the-badge&logo=vercel&logoColor=white" />
+ ![Stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-Talewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<img src="https://img.shields.io/badge/Team%20Lead-3%2B%20Organizations-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects%20Supervised-8%2B-success?style=for-the-badge&logo=vercel&logoColor=white" />
+
 <br/>
 
 

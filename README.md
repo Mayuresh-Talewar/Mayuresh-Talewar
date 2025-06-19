@@ -43,9 +43,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="//github.com/search?q=is%3Apr+reviewed-by%3AMayuresh-Talewar&type=pullrequests />
+<img src="//github.com/search?q=is%3Apr+reviewed-by%3AMayuresh-Talewar&type=pullrequests" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh-Talewar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-Talewar&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayuresh-Talewar&theme=tokyonight&hide_border=true" width="95%" />

@@ -33,7 +33,7 @@
 
 ### 💻 Tech Stack
 
-**Frontend:** React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, TypeScript, Next.js
+**Frontend:** React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, TypeScript, Next.js  
 **Backend:** Node.js, Express.js, JWT, OAuth 
 **Database:** MongoDB  
 **Tools:** Git, GitHub, Figma, Postman, Vercel

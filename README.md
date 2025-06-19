@@ -46,8 +46,9 @@
 
  ![Stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-Talewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://img.shields.io/badge/Team%20Lead-3%2B%20Organizations-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Projects%20Supervised-8%2B-success?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Team%20Lead-2%2B%20Organizations-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects%20Supervised-6%2B-success?style=for-the-badge&logo=vercel&logoColor=white" />
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-Talewar&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 

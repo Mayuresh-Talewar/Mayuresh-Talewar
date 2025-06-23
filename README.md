@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mayuresh+Talewar!;MERN+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%7C+Team+Leader+%7C+Clean+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mayuresh+Talewar!;MERN+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%7C+Team+Leader" alt="Typing SVG" />
 </div>
 
 ---

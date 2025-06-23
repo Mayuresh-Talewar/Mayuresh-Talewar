@@ -26,8 +26,8 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | [🌱 Tech Agriculture Platform](https://technologyagriculturecreater.com/) | MERN + Razorpay + OTP | Complete agri service platform |
-| [🎬 SK Film Productions](https://www.skfilmproductions.co.uk/) | HTML/CSS/JS | UK film portfolio with embedded media |
-| [🧱 Get Epoxy Floor](https://www.getepoxy.in/) | Website + Maps API | Lead-gen site with Google Maps |
+| [🎬 SK Film Productions](https://www.skfilmproductions.co.uk/) | Reactjs + Tailwind css | UK film portfolio with embedded media |
+| [🧱 Get Epoxy Floor](https://www.getepoxy.in/) | Reactjs + Tailwind css | Lead-gen site with Google Maps |
 | [🤖 AI Code Review App](https://shadow-monarchs-code-review-frontend.onrender.com/) | MERN + Gemini API | AI-powered code review platform |
 
 ---
